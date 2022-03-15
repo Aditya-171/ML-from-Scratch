@@ -2,7 +2,7 @@
 
 
 ## Objective 
-### This Repo aims to contains warious topic/techniques of Machine learning, which is easy to understand ans is implemented from scratch.
+### This Repo aims to contains warious topic/techniques of Machine learning, which is easy to understand and is implemented from scratch.
 
 ------------------------------------------------------------------------------------------------------------
 #### Content of this repo
