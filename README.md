@@ -8,10 +8,10 @@
 #### Content of this repo
 
 1. Machine learning Algos
-    1. Linear Regression
+    1. [Linear Regression](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Linear%20Regression)
     
 2. ML Techniques
     1. Ordinal Encoding
     2. OneHot Encoding
-    3. 
+   
 
