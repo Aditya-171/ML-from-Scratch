@@ -1,0 +1,1 @@
+### Encoding is one of the process in the pre-prossesing step in Feature engineering of machine learning,it is used to convert categorical data into numerical form, as machine learning model does not understand the data in categorical form
