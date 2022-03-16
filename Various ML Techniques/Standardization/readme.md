@@ -4,4 +4,5 @@
  Standardized Value =(X- μ)/σ <br />
  Where X= Actual value <br />
        μ= Mean <br />
-       μ= Standard Deviation <br />
+       σ = Standard Deviation <br />
+ 
