@@ -16,6 +16,6 @@
     3. [Standardization](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Standardization)
     4. [Normalization](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Normalization)
     5. Handling missing values </br>
-        a.[Mean Median Imputation](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Handling%20missing%20values/Mean_Median_Imputation)
+          a.[Mean Median Imputation](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Handling%20missing%20values/Mean_Median_Imputation)
    
 
