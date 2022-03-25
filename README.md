@@ -7,15 +7,16 @@
 ------------------------------------------------------------------------------------------------------------
 #### Content of this repo
 
-1. Machine learning Algos
-    1. [Linear Regression](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Linear%20Regression)
+- Machine learning Algos
+    - [Linear Regression](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Linear%20Regression)
+    - [Logistic Regression](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Logistic%20Regression)
     
-2. ML Techniques
-    1. [Ordinal Encoding](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Ordinal%20Encoding)
-    2. [OneHot Encoding](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/One-Hot%20Encoding)
-    3. [Standardization](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Standardization)
-    4. [Normalization](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Normalization)
-    5. Handling missing values </br>
+-ML Techniques
+     - [Ordinal Encoding](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Ordinal%20Encoding)
+     - [OneHot Encoding](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/One-Hot%20Encoding)
+     -[Standardization](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Standardization)
+     - [Normalization](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Normalization)
+     -Handling missing values 
           -[Mean Median Imputation](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Handling%20missing%20values/Mean_Median_Imputation)
    
 
