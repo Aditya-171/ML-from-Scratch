@@ -13,34 +13,9 @@ Compute the euclidean distance between each pair of samples in X and Y, where Y=
 
 dist(x,y) = sqrt(weight * sq. distance from present coordinates) where, weight = Total # of coordinates / # of present coordinates
 
-For example, the distance between [3, na, na, 6] and [1, na, 4, 5] is:
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <msqrt>
-    <mfrac>
-      <mn>4</mn>
-      <mn>2</mn>
-    </mfrac>
-    <mo stretchy="false">(</mo>
-    <mo stretchy="false">(</mo>
-    <mn>3</mn>
-    <mo>&#x2212;</mo>
-    <mn>1</mn>
-    <msup>
-      <mo stretchy="false">)</mo>
-      <mn>2</mn>
-    </msup>
-    <mo>+</mo>
-    <mo stretchy="false">(</mo>
-    <mn>6</mn>
-    <mo>&#x2212;</mo>
-    <mn>5</mn>
-    <msup>
-      <mo stretchy="false">)</mo>
-      <mn>2</mn>
-    </msup>
-    <mo stretchy="false">)</mo>
-  </msqrt>
-</math>
+For example, the distance between [3, na, na, 6] and [1, na, 4, 5] is: sqrt( (4/2) [(3-1)**2 + (6-5)**2] 
+ 
+
 
  
 
