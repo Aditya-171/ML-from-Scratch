@@ -19,6 +19,7 @@
      - Handling missing values 
           - [Mean Median Imputation](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Handling%20missing%20values/Mean_Median_Imputation)
           - [Arbitary Value Imputation](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Handling%20missing%20values/Arbitrary%20Value%20Imputation)
+          - [KNN Imputation](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Handling%20missing%20values/KNN%20Imputation)
  - Evaluation Metrices
       - [Regression metrices](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Evaluation%20Metrics/Regression%20metrics)
       - [Classification metrices](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Evaluation%20Metrics/Classification%20metrics)
