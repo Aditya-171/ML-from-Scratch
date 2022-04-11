@@ -10,6 +10,7 @@
  - Machine learning Algos
     - [Linear Regression](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Linear%20Regression)
     - [Logistic Regression](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Logistic%20Regression)
+    - [K Nearest Neighbors](https://github.com/Aditya-171/ML-from-Scratch/tree/main/KNN)
     
  - ML Techniques
      - [Ordinal Encoding](https://github.com/Aditya-171/ML-from-Scratch/tree/main/Various%20ML%20Techniques/Ordinal%20Encoding)
